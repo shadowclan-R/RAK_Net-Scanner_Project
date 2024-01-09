@@ -7,6 +7,7 @@ import Contact from "./pages/Contact";
 import Products from "./pages/Products";
 import Scanner from "./pages/Scanner";
 import NotFound from "./pages/NotFound";
+import ScanInformation from "./pages/ScanInformation";
 
 
 
@@ -22,6 +23,7 @@ function App() {
                         <Route exact path="/contact" element={<Contact/>}/>
                         <Route exact path="/products" element={<Products/>}/>
                         <Route exact path="/scanner" element={<Scanner/>}/>
+                        <Route exact path="/result" element={<ScanInformation/>}/>
                         <Route exact path="*" element={<NotFound/>}/>
                     </Routes>
                 </div>

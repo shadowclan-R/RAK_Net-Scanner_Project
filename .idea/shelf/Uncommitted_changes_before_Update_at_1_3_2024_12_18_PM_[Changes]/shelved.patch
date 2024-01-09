@@ -1,0 +1,101 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"a43645ca-a991-43fa-adb7-21a251836045\" name=\"Changes\" comment=\"updated README.md\">\r\n      <change beforePath=\"$PROJECT_DIR$/package-lock.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/package-lock.json\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/package.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/package.json\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"JavaScript File\" />\r\n        <option value=\"JSX File\" />\r\n        <option value=\"HTML File\" />\r\n        <option value=\"CSS File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\r\n      <list>\r\n        <option value=\"Abdoul-Hakim101 &lt;85031017+abdoul-hakim101@users.noreply.github.com&gt;\" />\r\n      </list>\r\n    </option>\r\n    <option name=\"PUSH_TAGS\">\r\n      <GitPushTagMode>\r\n        <option name=\"argument\" value=\"--tags\" />\r\n        <option name=\"title\" value=\"All\" />\r\n      </GitPushTagMode>\r\n    </option>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"selectedUrlAndAccountId\">\r\n      <UrlAndAccount>\r\n        <option name=\"accountId\" value=\"f0696122-febf-46d4-a239-c5b3800c080d\" />\r\n        <option name=\"url\" value=\"https://github.com/Abdoul-Hakim101/RAK_Net-Scanner_Project.git\" />\r\n      </UrlAndAccount>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"autoscrollToSource\" value=\"true\" />\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 0\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2Yg4tOhUWOd6XBcImk28nReIMIp\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ASKED_ADD_EXTERNAL_FILES\": \"true\",\r\n    \"DefaultHtmlFileTemplate\": \"HTML File\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"last_opened_file_path\": \"C:/Users/abdihakin/WebstormProjects/RAK_Net-Scanner_Project\",\r\n    \"list.type.of.created.stylesheet\": \"CSS\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"npm.build.executor\": \"Run\",\r\n    \"npm.eject.executor\": \"Run\",\r\n    \"npm.start.executor\": \"Run\",\r\n    \"settings.editor.selected.configurable\": \"reference.settings.ide.settings.uml\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\abdihakin\\WebstormProjects\\Project\\img\" />\r\n      <recent name=\"C:\\Users\\abdihakin\\WebstormProjects\\Project\\videos\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\abdihakin\\WebstormProjects\\Project\" />\r\n      <recent name=\"C:\\Users\\abdihakin\\WebstormProjects\\Project\\pages\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"npm.eject\">\r\n    <configuration name=\"build\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <package-json value=\"$PROJECT_DIR$/package.json\" />\r\n      <command value=\"run\" />\r\n      <scripts>\r\n        <script value=\"build\" />\r\n      </scripts>\r\n      <node-interpreter value=\"project\" />\r\n      <envs />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"eject\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <package-json value=\"$PROJECT_DIR$/package.json\" />\r\n      <command value=\"run\" />\r\n      <scripts>\r\n        <script value=\"eject\" />\r\n      </scripts>\r\n      <node-interpreter value=\"project\" />\r\n      <envs />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"start\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <package-json value=\"$PROJECT_DIR$/package.json\" />\r\n      <command value=\"run\" />\r\n      <scripts>\r\n        <script value=\"start\" />\r\n      </scripts>\r\n      <node-interpreter value=\"project\" />\r\n      <envs />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"npm.eject\" />\r\n        <item itemvalue=\"npm.build\" />\r\n        <item itemvalue=\"npm.start\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"a43645ca-a991-43fa-adb7-21a251836045\" name=\"Changes\" comment=\"\" />\r\n      <created>1700934104260</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1700934104260</updated>\r\n      <workItem from=\"1700934106195\" duration=\"3029000\" />\r\n      <workItem from=\"1700988766295\" duration=\"23349000\" />\r\n      <workItem from=\"1701072707272\" duration=\"2305000\" />\r\n      <workItem from=\"1701075991943\" duration=\"103000\" />\r\n      <workItem from=\"1701076123844\" duration=\"11583000\" />\r\n      <workItem from=\"1702457339035\" duration=\"30000\" />\r\n      <workItem from=\"1702497509685\" duration=\"329000\" />\r\n      <workItem from=\"1702497906184\" duration=\"23000\" />\r\n      <workItem from=\"1702555694491\" duration=\"19327000\" />\r\n      <workItem from=\"1702575599465\" duration=\"9538000\" />\r\n      <workItem from=\"1702621919051\" duration=\"597000\" />\r\n      <workItem from=\"1702628989543\" duration=\"6370000\" />\r\n      <workItem from=\"1702663240367\" duration=\"10921000\" />\r\n      <workItem from=\"1702716122783\" duration=\"13133000\" />\r\n      <workItem from=\"1702742522922\" duration=\"5654000\" />\r\n      <workItem from=\"1702797654668\" duration=\"7322000\" />\r\n      <workItem from=\"1702805772608\" duration=\"1730000\" />\r\n      <workItem from=\"1702807513410\" duration=\"1455000\" />\r\n      <workItem from=\"1703185360430\" duration=\"512000\" />\r\n      <workItem from=\"1704012385698\" duration=\"13112000\" />\r\n      <workItem from=\"1704107440152\" duration=\"309000\" />\r\n      <workItem from=\"1704108415710\" duration=\"11708000\" />\r\n      <workItem from=\"1704183462787\" duration=\"7571000\" />\r\n      <workItem from=\"1704230514884\" duration=\"2513000\" />\r\n      <workItem from=\"1704267239712\" duration=\"1296000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Adding files: Complete HTML and CSS code for all the RAK pages except the two scanning pages.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1702806795291</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1702806795291</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Adding files: Complete HTML and CSS code for all the RAK pages except the two scanning pages.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1702806839806</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1702806839807</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Resolves conflict and ensures conde consistency\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1704231354077</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1704231354077</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"updated README.md\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1704231963498</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1704231963498</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"Adding files: Complete HTML and CSS code for all the RAK pages except the two scanning pages.\" />\r\n    <MESSAGE value=\"Delete CNAME\" />\r\n    <MESSAGE value=\"Resolves conflict and ensures conde consistency\" />\r\n    <MESSAGE value=\"updated README.md\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"updated README.md\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 0eb06452e39f80b131d966c4d7c7878e40a38d3b)
++++ b/.idea/workspace.xml	(date 1704273162057)
+@@ -5,7 +5,7 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="a43645ca-a991-43fa-adb7-21a251836045" name="Changes" comment="updated README.md">
+-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -88,7 +88,9 @@
+     "node.js.selected.package.tslint": "(autodetect)",
+     "nodejs_package_manager_path": "npm",
+     "npm.build.executor": "Run",
++    "npm.deploy.executor": "Run",
+     "npm.eject.executor": "Run",
++    "npm.predeploy.executor": "Run",
+     "npm.start.executor": "Run",
+     "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
+     "vue.rearranger.settings.migration": "true"
+@@ -104,12 +106,22 @@
+       <recent name="C:\Users\abdihakin\WebstormProjects\Project\pages" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="npm.eject">
++  <component name="RunManager" selected="npm.deploy">
+     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+       <package-json value="$PROJECT_DIR$/package.json" />
+       <command value="run" />
+       <scripts>
+         <script value="build" />
++      </scripts>
++      <node-interpreter value="project" />
++      <envs />
++      <method v="2" />
++    </configuration>
++    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
++      <package-json value="$PROJECT_DIR$/package.json" />
++      <command value="run" />
++      <scripts>
++        <script value="deploy" />
+       </scripts>
+       <node-interpreter value="project" />
+       <envs />
+@@ -120,6 +132,16 @@
+       <command value="run" />
+       <scripts>
+         <script value="eject" />
++      </scripts>
++      <node-interpreter value="project" />
++      <envs />
++      <method v="2" />
++    </configuration>
++    <configuration name="predeploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
++      <package-json value="$PROJECT_DIR$/package.json" />
++      <command value="run" />
++      <scripts>
++        <script value="predeploy" />
+       </scripts>
+       <node-interpreter value="project" />
+       <envs />
+@@ -137,6 +159,8 @@
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="npm.deploy" />
++        <item itemvalue="npm.predeploy" />
+         <item itemvalue="npm.eject" />
+         <item itemvalue="npm.build" />
+         <item itemvalue="npm.start" />
+Index: package.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\"homepage\":\"https://Abdoul-Hakim101.github.io/RAK_Net-Scanner_Project\",\r\n  \"name\":\"rak\",\r\n  \"version\":\"0.1.0\",\r\n  \"private\":true,\r\n  \"dependencies\":{\"@testing-library/jest-dom\":\"^5.17.0\",\r\n    \"@testing-library/react\":\"^13.4.0\",\"@testing-library/user-event\":\"^13.5.0\",\r\n    \"react\":\"^18.2.0\",\r\n    \"react-dom\":\"^18.2.0\",\r\n    \"react-router-dom\":\"^6.21.1\",\r\n    \"react-scripts\":\"5.0.1\",\r\n    \"web-vitals\":\"^2.1.4\"\r\n  },\r\n  \"scripts\":{\r\n    \"start\":\"react-scripts start\",\r\n    \"build\":\"react-scripts build\",\r\n    \"test\":\"react-scripts test\",\r\n    \"eject\":\"react-scripts eject\"\r\n    \"predeploy\": \"npm run build\",\r\n    \"deploy\": \"gh-pages -d build\",\r\n  },\r\n  \"eslintConfig\":{\"extends\":[\"react-app\",\"react-app/jest\"]},\r\n  \"browserslist\":{\"production\":[\">0.2%\",\"not dead\",\"not op_mini all\"],\r\n\r\n  \"development\":[\"last 1 chrome version\",\"last 1 firefox version\",\"last 1 safari version\"]},\r\n  \"devDependencies\":{\"file-loader\":\"^6.2.0\",\"gh-pages\":\"^6.1.1\"}}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/package.json b/package.json
+--- a/package.json	(revision 0eb06452e39f80b131d966c4d7c7878e40a38d3b)
++++ b/package.json	(date 1704272656530)
+@@ -14,9 +14,9 @@
+     "start":"react-scripts start",
+     "build":"react-scripts build",
+     "test":"react-scripts test",
+-    "eject":"react-scripts eject"
++    "eject":"react-scripts eject",
+     "predeploy": "npm run build",
+-    "deploy": "gh-pages -d build",
++    "deploy": "gh-pages -d build"
+   },
+   "eslintConfig":{"extends":["react-app","react-app/jest"]},
+   "browserslist":{"production":[">0.2%","not dead","not op_mini all"],
